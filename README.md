@@ -6,6 +6,11 @@ Built with **React**, **Vite**, and **React Bootstrap**.
 
 ---
 
+
+## 🌐 Live Demo
+
+👉 https://ilyaas1216.github.io/spotify-album-finder/
+
 ## 🚀 Features
 
 - 🔍 Search for any artist on Spotify  
@@ -28,9 +33,3 @@ Built with **React**, **Vite**, and **React Bootstrap**.
 
 
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/ilyaas1216/spotify-album-finder.git
-cd spotify-album-finder
