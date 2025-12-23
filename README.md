@@ -1,8 +1,36 @@
-# React + Vite
+# 🎵 Spotify Album Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React web app that lets users search for an artist and view their albums using the Spotify Web API.
 
-Currently, two official plugins are available:
+Built with **React**, **Vite**, and **React Bootstrap**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Features
+
+- 🔍 Search for any artist on Spotify  
+- 💿 View a list of the artist’s albums  
+- 📅 See album release dates  
+- 🔗 Click directly to open albums on Spotify  
+- 🎨 Clean, responsive UI with Bootstrap  
+
+---
+
+## 🛠️ Technologies Used
+
+- React  
+- Vite  
+- JavaScript (ES6)  
+- React Bootstrap  
+- Spotify Web API  
+
+---
+
+
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/ilyaas1216/spotify-album-finder.git
+cd spotify-album-finder
